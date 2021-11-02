@@ -1,3 +1,7 @@
+**Team Members:**
+   1. Swathi Aireddy
+   2. Amit Kayal
+
 The Assignment is on MNIST dataset focusing on 
              1. normalization techniques like Batch normalization, Group normalization and Layer normalization. 
              2. Regularization techniques like L1 is used and
